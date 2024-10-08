@@ -8,6 +8,7 @@ public class GreefoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GreefoApplication.class, args);
+		System.out.println("Greefo is running......");
 	}
 
 }
